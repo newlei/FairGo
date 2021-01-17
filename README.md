@@ -50,7 +50,7 @@ that crawal and analyze the data.
 
 ```
 ## Acknowledgments
-We thank LMC lab. for providing GPU and dataset for us.
+We thank LMC lab. of Hefei University of Technology
 
 
 
