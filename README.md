@@ -38,7 +38,7 @@ In order to speed up model training, the original dataset was processed to form 
 
 
 ## Citation 
-If you find this useful for your research, please kindly cite the following two papers
+If you find this useful for your research, please kindly cite the following paper
 that crawal and analyze the data.
 
 ```
