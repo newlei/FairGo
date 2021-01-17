@@ -24,3 +24,14 @@ git clone https://github.com/newlei/FairGo.git
 cd FairGo
 cd code
 ```
+
+
+### Code
+Code on MovieLens-1M. Please open “code/code_ml”.  
+
+Code on Lastfm-360K. Please open “code/code_lastfm”.
+
+### Datasets
+In order to speed up model training, the original dataset was processed to form a variety of intermediate data. Because these intermediate data of MovieLens-1M and Lastfm-360K occupy too much space, it cannot be completely put on GitHub which allows max file size to 100 MB. To meet anonymity requirements, some intermediate data is missing. We pubilc all data in [link](https://mailhfuteducn-my.sharepoint.com/:f:/g/personal/chenlei_2016_mail_hfut_edu_cn/Ek2vQvtMA8tPrKyMV9hQriYBxPEYpVARhE79QIsn4DPQew?e=wUSyTi).
+
+
