@@ -25,7 +25,6 @@ cd FairGo
 cd code
 ```
 
-
 ### Code
 Code on MovieLens-1M. Please open “code/code_ml”.  
 
@@ -35,5 +34,23 @@ Code on Lastfm-360K. Please open “code/code_lastfm”.
 In order to speed up model training, the original dataset was processed to form a variety of intermediate data. Because these intermediate data of MovieLens-1M and Lastfm-360K occupy too much space, it cannot be completely put on GitHub which allows max file size to 100 MB. To meet anonymity requirements, some intermediate data is missing. We pubilc all data in [link](https://mailhfuteducn-my.sharepoint.com/:f:/g/personal/chenlei_2016_mail_hfut_edu_cn/Ek2vQvtMA8tPrKyMV9hQriYBxPEYpVARhE79QIsn4DPQew?e=wUSyTi).
 
 - We pubilc all data in [link](https://mailhfuteducn-my.sharepoint.com/:f:/g/personal/chenlei_2016_mail_hfut_edu_cn/Ek2vQvtMA8tPrKyMV9hQriYBxPEYpVARhE79QIsn4DPQew?e=wUSyTi).
+
+
+## Citation 
+If you find this useful for your research, please kindly cite the following two papers
+that crawal and analyze the data.
+
+```
+@article{fairgo2021,
+  title={Learning Fair Representations for Recommendation: A Graph-based Perspective},
+  author={Le Wu, Lei Chen, Pengyang Shao, Richang Hong, Xiting Wang and Meng Wang}
+  journal={WWW},
+  year={2021}
+}
+
+```
+## Acknowledgments
+We thank LMC lab. for providing GPU and dataset for us.
+
 
 
