@@ -1,0 +1,21 @@
+epoch:0 time:797.1  train_loss f:-19.2256 d:19.3919val_loss f:-18.9842 d:19.0796 val_rmse:0.9313  test_rmse:0.9267
+epoch:1 time:791.2  train_loss f:-19.427 d:19.1914val_loss f:-20.0627 d:20.1451 val_rmse:0.8551  test_rmse:0.8467
+epoch:2 time:782.2  train_loss f:-19.8532 d:19.1908val_loss f:-20.5267 d:20.5967 val_rmse:0.7183  test_rmse:0.7081
+epoch:3 time:785.5  train_loss f:-19.5182 d:19.2748val_loss f:-19.7874 d:19.8603 val_rmse:0.6849  test_rmse:0.6738
+epoch:4 time:786.0  train_loss f:-19.1127 d:19.5846val_loss f:-18.7415 d:18.8136 val_rmse:0.6729  test_rmse:0.6615	 gender auc:0.5383	age f1:0.4687	
+epoch:5 time:778.4  train_loss f:-19.145 d:19.5442val_loss f:-20.2691 d:20.3291 val_rmse:0.6878  test_rmse:0.6744	 gender auc:0.5394	age f1:0.4708	
+epoch:6 time:781.6  train_loss f:-19.7355 d:19.308val_loss f:-19.199 d:19.2609 val_rmse:0.6935  test_rmse:0.6818	 gender auc:0.5437	age f1:0.4696	
+epoch:7 time:783.9  train_loss f:-19.7327 d:19.492val_loss f:-19.356 d:19.4261 val_rmse:0.689   test_rmse:0.6696	 gender auc:0.5389	age f1:0.4698	
+epoch:8 time:778.1  train_loss f:-21.1725 d:19.2331val_loss f:-22.4871 d:23.0295 val_rmse:2.0474  test_rmse:2.0259	 gender auc:0.5416	age f1:0.4888	
+epoch:9 time:784.2  train_loss f:-18.9353 d:19.4536val_loss f:-19.548 d:19.6412 val_rmse:0.9243  test_rmse:0.9209	 gender auc:0.5382	age f1:0.4682	
+epoch:10 time:785.7 train_loss f:-18.8754 d:19.187val_loss f:-20.4611 d:20.5271 val_rmse:0.7215  test_rmse:0.7144	 gender auc:0.5357	age f1:0.4666	
+epoch:11 time:784.8 train_loss f:-18.653 d:19.3816val_loss f:-21.7227 d:21.7856 val_rmse:0.7122  test_rmse:0.6972	 gender auc:0.5371	age f1:0.4694	
+epoch:12 time:776.7 train_loss f:-18.3797 d:19.155val_loss f:-18.7195 d:18.7849 val_rmse:0.7151  test_rmse:0.6966	 gender auc:0.5365	age f1:0.4676	
+epoch:13 time:790.4 train_loss f:-19.3913 d:19.3583val_loss f:-19.6963 d:19.7643 val_rmse:0.7207  test_rmse:0.7049	 gender auc:0.5367	age f1:0.4664	
+epoch:14 time:787.3 train_loss f:-19.2273 d:19.338val_loss f:-21.7316 d:21.8034 val_rmse:0.7292  test_rmse:0.708 	 gender auc:0.5364	age f1:0.4653	
+epoch:15 time:804.7 train_loss f:-18.8056 d:19.1968val_loss f:-18.5511 d:18.617 val_rmse:0.7011  test_rmse:0.6807	 gender auc:0.5385	age f1:0.4669	
+epoch:16 time:780.1 train_loss f:-18.7629 d:19.6827val_loss f:-20.2908 d:20.3652 val_rmse:0.7221  test_rmse:0.6979	 gender auc:0.5352	age f1:0.4675	
+epoch:17 time:786.8 train_loss f:-20.1788 d:19.1674val_loss f:-22.9656 d:23.5983 val_rmse:1.8708  test_rmse:1.8467	 gender auc:0.5425	age f1:0.4693	
+epoch:18 time:790.3 train_loss f:-19.0104 d:19.3777val_loss f:-22.2694 d:22.3458 val_rmse:0.7474  test_rmse:0.739 	 gender auc:0.5362	age f1:0.4667	
+epoch:19 time:790.6 train_loss f:-19.3385 d:19.255val_loss f:-20.6542 d:20.78  val_rmse:0.8205  test_rmse:0.7963	 gender auc:0.5384	age f1:0.4656	
+epoch:20 time:784.2 train_loss f:-19.3826 d:19.5664val_loss f:-20.5498 d:20.6253 val_rmse:0.7515  test_rmse:0.7367	 gender auc:0.5344	age f1:0.4843	
