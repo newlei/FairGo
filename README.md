@@ -47,8 +47,18 @@ that crawal and analyze the data.
   journal={WWW},
   year={2021}
 }
-
 ```
+Besides, you may find these following works are useful for understanding GCN-based recommendation.
+```
+@article{LRGCCF2019,
+  title={Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach},
+  author={Lei, Chen and Le, Wu and  Richang, Hong and Kun, Zhang and Meng, Wang}
+  journal={AAAI},
+  year={2019}
+}
+```
+
+
 ## Acknowledgments
 We thank LMC lab. of Hefei University of Technology
 
