@@ -42,7 +42,7 @@ If you find this useful for your research, please kindly cite the following pape
 that crawal and analyze the data.
 
 ```
-@article{fairgo2021,
+@article{wu2021learn,
   title={Learning Fair Representations for Recommendation: A Graph-based Perspective},
   author={Le Wu, Lei Chen, Pengyang Shao, Richang Hong, Xiting Wang and Meng Wang}
   journal={WWW},
@@ -51,7 +51,7 @@ that crawal and analyze the data.
 ```
 Besides, you may find these following works are useful for understanding GCN-based recommendation.
 ```
-@article{LRGCCF2019,
+@article{chen2019revis,
   title={Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach},
   author={Lei, Chen and Le, Wu and  Richang, Hong and Kun, Zhang and Meng, Wang}
   journal={AAAI},
